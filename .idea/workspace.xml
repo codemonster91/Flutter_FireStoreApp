@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fa9ade6-df96-4fa6-b9e5-9b8d6e1598ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/MainPage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/MainPage.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iXAD2Prqvh5cVlRfA72po0o16B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Mishwary-master" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/android/app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fa9ade6-df96-4fa6-b9e5-9b8d6e1598ac" name="Default Changelist" comment="" />
+      <created>1602043439876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602043439876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="334" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1602218553002">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="334" y="116" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1602218553002" />
+    <state x="205" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602153516311">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="205" y="125" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1602153516311" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602141124212">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1602141124212" />
+    <state width="1011" height="302" key="GridCell.Tab.0.bottom" timestamp="1602582433787">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1011" height="302" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1602582433787" />
+    <state width="1011" height="302" key="GridCell.Tab.0.center" timestamp="1602582433787">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1011" height="302" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1602582433787" />
+    <state width="1011" height="302" key="GridCell.Tab.0.left" timestamp="1602582433786">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1011" height="302" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1602582433786" />
+    <state width="1011" height="302" key="GridCell.Tab.0.right" timestamp="1602582433787">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1011" height="302" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1602582433787" />
+    <state x="100" y="127" width="1166" height="541" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602561090801">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="com.android.tools.idea.avdmanager.AvdListDialog/0.27.1366.741@0.27.1366.741" timestamp="1602561090801" />
+    <state x="178" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1602560928160">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="178" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1602560928160" />
+    <state x="180" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602053461317">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="180" y="27" width="683" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1602053461317" />
+    <state x="100" y="127" width="844" height="541" key="dock-window-1" timestamp="1602060228230">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="844" height="541" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1602060228230" />
+    <state x="190" y="174" key="run.anything.popup" timestamp="1602216580543">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="190" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1602216580543" />
+    <state x="185" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1602565029059">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="185" y="88" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1602565029059" />
+  </component>
+</project>

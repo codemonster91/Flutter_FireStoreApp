@@ -1,0 +1,17 @@
+# This is a generated file; do not edit or check into version control.
+camera=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.8+7/
+cloud_firestore=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.1+3/
+cloud_firestore_web=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.0+4/
+file_picker=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/file_picker-2.0.7/
+firebase_auth=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.1+2/
+firebase_auth_web=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.3.1+1/
+firebase_core=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.0+1/
+firebase_core_web=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.0/
+firebase_storage=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-4.0.1/
+flutter_plugin_android_lifecycle=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+image_picker=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+11/
+path_provider=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.18/
+path_provider_linux=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_macos=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+4/
+path_provider_windows=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+1/
+permission_handler=/home/fortec_prinec/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.0.1+1/
